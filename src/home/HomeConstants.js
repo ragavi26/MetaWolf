@@ -1,0 +1,16 @@
+export default {
+  TEMP_VALUE: '3',
+  CLOUD_VALUE: '14',
+  CLOUD_DEGREE: '°',
+  TEMP_KW_VALUE: '5.90',
+  KW: 'KW',
+  SOLAR_POWER_NAME: 'Solar Power Now',
+  TEMP_CHARGE_VALUE: '2.90',
+  CHARGING: 'Charging',
+  TEMP_ENERGY_VALUE: '85',
+  PERCENTAGE: '%',
+  DISCHARGING: 'Discharging',
+  TEMP_ANALYSIS_VALUE: '1.90',
+  GRID: 'Grid',
+  SYSTEM_STATUS: 'System Status',
+};
